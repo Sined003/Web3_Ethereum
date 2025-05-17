@@ -1,4 +1,4 @@
-require_once "autoload.php";
+require_once "vendor/autoload.php";
 
 use Web3\Web3;
 use Web3\Providers\HttpProvider;
